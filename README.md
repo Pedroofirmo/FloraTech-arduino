@@ -1,10 +1,5 @@
 # 🌱 FloraTech - Monitoramento Inteligente de Estufas (Arduino)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
 ---
 
 ## 🚀 Sobre o Projeto
